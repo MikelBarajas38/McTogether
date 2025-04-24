@@ -1,7 +1,7 @@
 <<div align="center">
   <a href="#">
     <picture>
-      <img src="assets/celebrate.png" width="520" alt="McTogether logo">
+      <img src="assets/logomt.png" width="100" alt="McTogether logo">
     </picture>
   </a>
 </div>
@@ -16,7 +16,7 @@ TalentLand 2025
 <<div align="center">
   <a href="#">
     <picture>
-      <img src="assets/logomt.png" width="520" alt="Yay">
+      <img src="assets/celebrate.png" width="300" alt="Yay">
     </picture>
   </a>
 </div>
