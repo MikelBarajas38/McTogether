@@ -1,4 +1,4 @@
-<<div align="center">
+<div align="center">
   <a href="#">
     <picture>
       <img src="assets/logomt.png" width="100" alt="McTogether logo">
@@ -13,10 +13,10 @@ Una app que hace que pedir en grupo sea más fácil y divertido. Incentivamos la
 ☠ Do NOT order these past 3 AM ☠
 TalentLand 2025
 
-<<div align="center">
+<div align="center">
   <a href="#">
     <picture>
-      <img src="assets/celebrate.png" width="300" alt="Yay">
+      <img src="assets/celebrate.png" width="512" alt="Yay">
     </picture>
   </a>
 </div>
