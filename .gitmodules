@@ -1,0 +1,9 @@
+[submodule "mctogether"]
+	path = mctogether
+	url = https://github.com/RodrigoJC20/mctogether.git
+[submodule "McTogether-Backend"]
+	path = McTogether-Backend
+	url = https://github.com/MisterChief53/McTogether-Backend.git
+[submodule "Mc-Mock"]
+	path = Mc-Mock
+	url = https://github.com/MikelBarajas38/Mc-Mock.git
