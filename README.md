@@ -16,6 +16,12 @@ MCTogether is a revolutionary McDonald's group buying platform that brings peopl
 - Collect McCoins through purchases and activities
 - Open exciting lootboxes with exclusive rewards
 
+## Submodules
+
+- [McTogether Frontend](mctogether): Expo Client.
+- [McTogether Backend](McTogether-Backend): NestJS Server.
+- [McMock](Mc-Mock): McDonald's payments system mock API.
+
 ☠ Do NOT order these past 3 AM ☠
 
 TalentLand 2025
