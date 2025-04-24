@@ -12,6 +12,7 @@ MCTogether is a revolutionary McDonald's group buying platform that brings peopl
 
 - Create and join group buys for McDonald's items
 - Earn rewards through collective purchasing
+- Customize your McBuddy
 - Collect McCoins through purchases and activities
 - Open exciting lootboxes with exclusive rewards
 
