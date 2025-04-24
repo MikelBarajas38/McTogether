@@ -16,6 +16,7 @@ MCTogether is a revolutionary McDonald's group buying platform that brings peopl
 - Open exciting lootboxes with exclusive rewards
 
 ☠ Do NOT order these past 3 AM ☠
+
 TalentLand 2025
 
 <div align="center">
