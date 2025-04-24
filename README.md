@@ -1,7 +1,7 @@
 <div align="center">
   <a href="#">
     <picture>
-      <img src="assets/logomt.png" width="100" alt="McTogether logo">
+      <img src="assets/logomt.png" width="200" alt="McTogether logo">
     </picture>
   </a>
 </div>
