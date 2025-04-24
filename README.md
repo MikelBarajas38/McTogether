@@ -6,9 +6,14 @@
   </a>
 </div>
 
-# McTogether
+# MCTogether 🍔
 
-Una app que hace que pedir en grupo sea más fácil y divertido. Incentivamos las visitas grupales a través de un sistema de recompensas digitales.
+MCTogether is a revolutionary McDonald's group buying platform that brings people together to save money and earn rewards. Our app enables users to:
+
+- Create and join group buys for McDonald's items
+- Earn rewards through collective purchasing
+- Collect McCoins through purchases and activities
+- Open exciting lootboxes with exclusive rewards
 
 ☠ Do NOT order these past 3 AM ☠
 TalentLand 2025
